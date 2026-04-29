@@ -1,11 +1,11 @@
 using UnityEngine;
 
-public class Triangle : MonoBehaviour
+public class KaiTingCircle : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Debug.Log("I'm a triangle");
+        print("I am a circle!");
     }
 
     // Update is called once per frame
